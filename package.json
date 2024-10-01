@@ -1,0 +1,15 @@
+{
+  "name": "meow-facts",
+  "version": "2.0.0",
+  "description": "Meow Facts - is a fun and educational web app designed for all cat lovers. Every time you click on the “Click on me!” button, you will be presented with an interesting and unusual fact about cats.",
+  "main": "index.js",
+  "scripts": {
+    "test": "debug"
+  },
+  "author": "Dino-wixxy",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.3.3",
+    "bootstrap-icons": "^1.11.3"
+  }
+}
