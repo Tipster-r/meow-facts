@@ -20,6 +20,6 @@ This project is licensed under the Creative Commons Attribution 3.0 Unported Lic
 
 ---
 
-© 2024 Dino-wixxy & Bootstrap
+© 2024 mac-me & Bootstrap
 
 [Discord](https://discord.gg/AWxRFn5u)
