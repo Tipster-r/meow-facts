@@ -4,9 +4,9 @@
   "description": "Meow Facts - is a fun and educational web app designed for all cat lovers. Every time you click on the “Click on me!” button, you will be presented with an interesting and unusual fact about cats.",
   "main": "index.js",
   "scripts": {
-    "test": "debug"
+    "test": ""
   },
-  "author": "Dino-wixxy",
+  "author": "mac-me",
   "license": "ISC",
   "dependencies": {
     "bootstrap": "^5.3.3",
