@@ -22,4 +22,4 @@ This project is licensed under the Creative Commons Attribution 3.0 Unported Lic
 
 © 2024 mac-me & Bootstrap
 
-[Discord](https://discord.gg/AWxRFn5u)
+[Discord](https://discord.gg/8g2MERHhtx)
