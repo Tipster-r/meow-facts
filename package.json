@@ -6,7 +6,7 @@
   "scripts": {
     "test": ""
   },
-  "author": "mac-me",
+  "author": "Tipster",
   "license": "ISC",
   "dependencies": {
     "bootstrap": "^5.3.3",
